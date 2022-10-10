@@ -1,4 +1,4 @@
-# package_name
+# rpg_pybot
 
 Description. 
 The package package_name is used to:
@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Lucas Mateus da Silva
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

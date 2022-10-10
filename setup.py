@@ -9,7 +9,7 @@ with open("requirements.txt") as f:
 setup(
     name="rpg_pybot",
     version="0.0.1",
-    author="Lucas_Mateus_da_Silva",
+    author="Lucas Mateus da Silva",
     author_email="my_email",
     description="My short description",
     long_description=page_description,
