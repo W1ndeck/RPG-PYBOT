@@ -85,9 +85,4 @@ class Player:
             self._hp -= 1
 
 
-jogador = Player("Lucas")
-jogador2 = Player("Vini")
-jogador.set_char_class(0)
-jogador.attack(jogador2)
-
 
