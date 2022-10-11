@@ -12,6 +12,3 @@ def roll(number_dice: int, number_face: int):
             print("invalid command")
     except:
         print("invalid command")
-
-
-roll(1.5 , "adoleta")
