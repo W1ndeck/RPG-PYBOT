@@ -1,23 +1,32 @@
 # rpg_pybot
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package rpg_pybot is used to:
+
+	dice:
+		roll	
+	players:
+		Player
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install rpg_pybot
 
 ```bash
-pip install package_name
+pip install rpg_pybot
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from rpg_pybot.dice import roll, players
+roll.roll()
+player1 = player.Player("name")
+player2 = player.Player("name")
+player1.player_data()
+player1.set_char_class([0-3])
+player1.attack(player2)
+
 ```
 
 ## Author
