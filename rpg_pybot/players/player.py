@@ -49,7 +49,7 @@ class Player:
                 elif int(class_number) == 2:
                     self._classe = "Warrior"
                     self._hp = 120
-                    self._mp = 50
+                    self._mp = 60
                     self._atk = 5
                     self._df = 5
                     self.special_attack = "Sword Stroke"
