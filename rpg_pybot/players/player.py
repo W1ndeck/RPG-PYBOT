@@ -43,8 +43,8 @@ class Player:
                     self._classe = "Rogue"
                     self._hp = 50
                     self._mp = 50
-                    self._atk = 8
-                    self._df = 8
+                    self._atk = 10
+                    self._df = 1
                     self.special_attack = "Stealth Attack"
                 elif int(class_number) == 2:
                     self._classe = "Warrior"
